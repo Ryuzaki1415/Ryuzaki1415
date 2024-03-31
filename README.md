@@ -6,8 +6,9 @@
 
 I make random stuff :D
 
+## Things i've worked with <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"></picture>
 
-## Things i've worked with 
+
 ![Static Badge](https://img.shields.io/badge/Langchain-green?style=for-the-badge)![Static Badge](https://img.shields.io/badge/CrewAI-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Huggingface-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Streamlit-grey?style=for-the-badge)
