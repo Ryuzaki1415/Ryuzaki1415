@@ -29,7 +29,7 @@ I make random stuff :D
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajnunni@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-unni-61ab36254/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuzaki1415&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuzaki1415&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ryuzaki1415/Ryuzaki1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
