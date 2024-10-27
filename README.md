@@ -1,4 +1,4 @@
-### Hey <picture>
+## Hey <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
   <img  src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="42" height="42">
 </picture>
@@ -6,10 +6,11 @@
 
 I make random stuff :D
 
-## Things i've worked with <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"></picture>
+## Things i've worked with 🚀 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"></picture>
 
 
-![Static Badge](https://img.shields.io/badge/Langchain-green?style=for-the-badge)![Static Badge](https://img.shields.io/badge/CrewAI-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Langchain-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CrewAI-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Huggingface-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Streamlit-grey?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,7 +22,8 @@ I make random stuff :D
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Golang-skyblue?style=for-the-badge&link=https%3A%2F%2Fgo.dev%2F)
+![Golang](https://img.shields.io/badge/Golang-cyan?style=for-the-badge&link=https%3A%2F%2Fgo.dev%2F)
+
 
 ## Get in touch! 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajnunni@gmail.com)
