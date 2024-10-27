@@ -23,15 +23,15 @@ I make random stuff :D
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Golang-skyblue?style=for-the-badge&link=https%3A%2F%2Fgo.dev%2F)
 
-
-
-
-
 ## Get in touch! 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajnunni@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-unni-61ab36254/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuzaki1415&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ryuzaki1415&theme=dark&fire=red)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuzaki1415&layout=donut&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Ryuzaki1415/Ryuzaki1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
