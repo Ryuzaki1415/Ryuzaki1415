@@ -32,7 +32,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ryuzaki1415&theme=dark&fire=red)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuzaki1415&layout=donut&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=Ryuzaki1415&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryuzaki1415&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
+</a>
 
 <!--
 **Ryuzaki1415/Ryuzaki1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
