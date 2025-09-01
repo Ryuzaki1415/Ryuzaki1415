@@ -32,7 +32,7 @@
 
 ## ⚡STATS⚡
 
-[![GitHub Streak](https://github-readme-streak-stats-mauve-one.vercel.app?user=Ryuzaki1415&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ryuzaki1415&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuzaki1415&layout=donut&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
